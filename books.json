@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Bangla",
+        "authour": "Rakib",
+        "isbn": "232",
+        "publish_year": "2002",
+        "price": 10,
+        "Quintity": -1
+    },
+    {
+        "title": "English",
+        "authour": "Foysal",
+        "isbn": "2322",
+        "publish_year": "2023",
+        "price": 121,
+        "Quintity": 17
+    },
+    {
+        "title": "Jhn",
+        "authour": "Math",
+        "isbn": "33232",
+        "publish_year": "2002",
+        "price": 4453,
+        "Quintity": 10
+    }
+]
